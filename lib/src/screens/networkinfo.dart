@@ -78,8 +78,11 @@ class _MyAppState extends State<MyApp> {
             }
             if (status == LocationAuthorizationStatus.authorizedAlways || status == LocationAuthorizationStatus.authorizedWhenInUse) {
               wifiName = await _connectivity.getWifiName();
+              print(wifiName);
             } else {
               wifiName = await _connectivity.getWifiName();
+              print(wifiName);
+
             }
           } else {
             wifiName = await _connectivity.getWifiName();

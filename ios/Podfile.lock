@@ -1,0 +1,59 @@
+PODS:
+  - camera (0.0.1):
+    - Flutter
+  - connectivity (0.0.1):
+    - Flutter
+    - Reachability
+  - Flutter (1.0.0)
+  - image_gallery_saver (0.0.1):
+    - Flutter
+  - image_picker (0.0.1):
+    - Flutter
+  - path_provider (0.0.1):
+    - Flutter
+  - qrcode_reader (0.0.1):
+    - Flutter
+  - Reachability (3.2)
+
+DEPENDENCIES:
+  - camera (from `.symlinks/plugins/camera/ios`)
+  - connectivity (from `.symlinks/plugins/connectivity/ios`)
+  - Flutter (from `.symlinks/flutter/ios`)
+  - image_gallery_saver (from `.symlinks/plugins/image_gallery_saver/ios`)
+  - image_picker (from `.symlinks/plugins/image_picker/ios`)
+  - path_provider (from `.symlinks/plugins/path_provider/ios`)
+  - qrcode_reader (from `.symlinks/plugins/qrcode_reader/ios`)
+
+SPEC REPOS:
+  trunk:
+    - Reachability
+
+EXTERNAL SOURCES:
+  camera:
+    :path: ".symlinks/plugins/camera/ios"
+  connectivity:
+    :path: ".symlinks/plugins/connectivity/ios"
+  Flutter:
+    :path: ".symlinks/flutter/ios"
+  image_gallery_saver:
+    :path: ".symlinks/plugins/image_gallery_saver/ios"
+  image_picker:
+    :path: ".symlinks/plugins/image_picker/ios"
+  path_provider:
+    :path: ".symlinks/plugins/path_provider/ios"
+  qrcode_reader:
+    :path: ".symlinks/plugins/qrcode_reader/ios"
+
+SPEC CHECKSUMS:
+  camera: 38cc83ae9a5667bb5a71c7d9edaf60a91920fd4e
+  connectivity: 6e94255659cc86dcbef1d452ad3e0491bb1b3e75
+  Flutter: 0e3d915762c693b495b44d77113d4970485de6ec
+  image_gallery_saver: 73b3cd8ad9c950c739878af9c311744d1bf5405d
+  image_picker: e3eacd46b94694dde7cf2705955cece853aa1a8f
+  path_provider: fb74bd0465e96b594bb3b5088ee4a4e7bb1f2a9d
+  qrcode_reader: 09b34d43b4c08fe5b63a6e56c96789bcea7b9148
+  Reachability: 33e18b67625424e47b6cde6d202dce689ad7af96
+
+PODFILE CHECKSUM: b6a0a141693093b304368d08511b46cf3d1d0ac5
+
+COCOAPODS: 1.8.4
